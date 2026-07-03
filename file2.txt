@@ -1,1 +1,2 @@
 this is the 2nd file of my version controlling practice.
+Now i made it as version 2 of this 2nd file.
