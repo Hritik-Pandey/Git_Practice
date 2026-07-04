@@ -1,2 +1,2 @@
-this is my 1st file of version controlling
+this is my 1st file of version controlling in gitHub
 Now i made it as version 2.
